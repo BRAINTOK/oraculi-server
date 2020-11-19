@@ -14,10 +14,10 @@ Oraculi is LMS powered by Protopia Ecosystem.
 
 ### Server
 
-* [https://gitlab.com/protopiahome-public/protopia-ecosystem/wordpress/pe-edu](Basic for Oraculi) 
-* [https://gitlab.com/protopiahome-public/protopia-ecosystem/wordpress/pe-payment](Payment for Oraculi)  
-* [https://gitlab.com/protopiahome-public/protopia-ecosystem/wordpress/pe-graphql](Graphql for Wordpress) 
-* [https://gitlab.com/protopiahome-public/protopia-ecosystem/wordpress/pe-jitsi](Jitsi for Oraculi) 
+* [Basic for Oraculi](https://gitlab.com/protopiahome-public/protopia-ecosystem/wordpress/pe-edu)
+* [Payment for Oraculi](https://gitlab.com/protopiahome-public/protopia-ecosystem/wordpress/pe-payment)  
+* [Graphql for Wordpress](https://gitlab.com/protopiahome-public/protopia-ecosystem/wordpress/pe-graphql) 
+* [Jitsi for Oraculi](https://gitlab.com/protopiahome-public/protopia-ecosystem/wordpress/pe-jitsi) 
 
 ## Installation and launch
 
